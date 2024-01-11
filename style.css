@@ -26,7 +26,7 @@ body{
 
 .container.success{
     display: initial;
-    padding: 3.5rem;
+    padding: 3.6rem;
 }
 
 .left{
@@ -59,7 +59,7 @@ body{
 }
 
 .form-item label{
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 700;
     margin-bottom: .5rem;
     display: flex;
@@ -79,7 +79,7 @@ body{
 .form-item button{
     padding: 1rem;
     margin-bottom: 1.5rem;
-    border-radius: 9px;
+    border-radius: 10px;
 }
 
 .form-item input{
