@@ -7,7 +7,7 @@
 body{
     background-color: hsl(235, 18%, 26%);
     min-height: 100vh;
-    font-size: 15px;
+    font-size: 16px;
     line-height: 1.8;
     font-family: "Roboto";
     display: grid;
@@ -19,7 +19,7 @@ body{
     margin: 0 auto;
     background-color:  hsl(0, 0%, 100%);
     padding: 1.5rem;
-    border-radius: 1.5rem;
+    border-radius: 1.6rem;
     display: grid;
     grid-template-columns:1fr 1fr;
 }
