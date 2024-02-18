@@ -40,7 +40,7 @@ body{
 }
 
 .left-info p,ul{
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.4rem;
 }
 
 .left-info ul li{
@@ -59,7 +59,7 @@ body{
 }
 
 .form-item label{
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 700;
     margin-bottom: .5rem;
     display: flex;
@@ -78,7 +78,7 @@ body{
 .form-item input,
 .form-item button{
     padding: 1rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.6rem;
     border-radius: 10px;
 }
 
